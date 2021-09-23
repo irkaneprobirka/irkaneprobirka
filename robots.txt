@@ -1,0 +1,14 @@
+Uder-agent:Yandex
+Dissallow: /Admin
+Dissallow: *?page=
+Sitemap: https:/irkaneprobirka.github.io/sitemap.xml
+
+Uder-agent:googlebot
+Dissallow: /Admin
+Dissallow: *?page=
+Sitemap: https:/irkaneprobirka.github.io/sitemap.xml
+
+Uder-agent:*
+Dissallow: /Admin
+Dissallow: *?page=
+Sitemap: https:/irkaneprobirka.github.io/sitemap.xml
